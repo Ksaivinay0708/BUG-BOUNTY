@@ -7,4 +7,4 @@ Here you can find the tools and reports and payloads for Bug hunting (Web Pen-te
 
 do not misuse the payload, In case of misuse we are not responsible
 
-If you need any other payload or for any support fell free to mail your request to vishwas@varzsecurtiy.com or saivinayredde@varzsecurity.com
+If you need any other payload or for any support fell free to mail your request to vishwas@varzsecurtiy.com or saivinayreddee@varzsecurity.com
